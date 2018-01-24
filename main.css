@@ -1,0 +1,75 @@
+h2
+ {
+ 	text-align: center;
+ }
+
+div 
+ {
+ 	display: inline-block;
+ }
+#headinner
+ {
+	width: 821px;
+	height: auto;
+	margin: 10px 211px 0px 211px;
+	text-align: center;
+	border: 2px solid red;
+ }
+
+#content 
+ {  
+ 	width: 821px;
+ 	height: 543px;
+ 	margin: 10px 211px 0px 211px;
+ 	border: 2px solid blue;
+ }
+
+#mon 
+ {
+ 	width: 246px;
+ 	height: 246px;
+ 	margin: 10px 10px 10px 10px;
+ 	border: 2px solid black;
+ }
+
+#tues
+ {
+ 	width: 246px;
+ 	height: 246px;
+ 	margin: 10px 10px 10px 10px;
+ 	border: 2px solid black;
+ }
+
+#wed
+ {
+ 	width: 246px;
+ 	height: 246px;
+ 	margin: 10px 10px 10px 10px;
+ 	border: 2px solid black;
+ }
+
+#thurs
+ {
+ 	width: 246px;
+ 	height: 246px;
+ 	margin: 10px 10px 10px 10px;
+ 	border: 2px solid black;
+ }
+
+#fri
+ {
+ 	width: 246px;
+ 	height: 246px;
+ 	margin: 10px 10px 10px 10px;
+ 	border: 2px solid black;
+ }
+
+#sat 
+ {
+ 	width: 246px;
+ 	height: 246px;
+ 	position: relative;
+ 	top: -20px;
+ 	margin: 10px 10px 10px 10px;
+ 	border: 2px solid black;
+ }
