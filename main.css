@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+html
+ {
+ 	font-family: "Amatic SC";
+ 	font-size: 20px;
+ 	font-style: color white;
+ 	background-color: brown;
+ 	background-image: url("images/texture-fon.jpg");
+ 	background-repeat: no-repeat;
+ 	background-size: auto 800px;
+ }
+
+h2
+ {
+ 	text-align: center;
+ 	font-family: "Amatic SC";
+ 	font-size: 25px;
+ 	margin: 5px 5px 5px 5px;
+ }
+
+div 
+ {
+ 	display: inline-block;
+ }
+#headinner
+ {
+	width: 821px;
+	height: auto;
+	margin: 100px 211px 0px 211px;
+	text-align: center;
+	border: 2px solid black;
+	border-radius: 10px;
+	background-color: white; 
+ }
+
+#content 
+ {  
+ 	width: 821px;
+ 	height: 543px;
+ 	margin: 10px 211px 0px 211px;
+ 	border: 2px solid black;
+ 	border-radius: 10px;
+ 	font-weight: bolder;
+ 	background-color: white; 
+ }
+
+#mon 
+ {
+ 	width: 246px;
+ 	height: 246px;
+ 	margin: 10px 10px 10px 10px;
+ 	border: 2px solid black;
+ 	border-radius: 10px;
+ }
+
+#tues
+ {
+ 	width: 246px;
+ 	height: 246px;
+ 	margin: 10px 10px 10px 10px;
+ 	border: 2px solid black;
+ 	border-radius: 10px; 
+ }
+
+#wed
+ {
+ 	width: 246px;
+ 	height: 246px;
+ 	margin: 10px 10px 10px 10px;
+ 	border: 2px solid black;
+ 	border-radius: 10px;
+ }
+
+#thurs
+ {
+ 	width: 246px;
+ 	height: 246px;
+ 	margin: 10px 10px 10px 10px;
+ 	border: 2px solid black;
+ 	border-radius: 10px;
+ }
+
+#fri
+ {
+ 	width: 246px;
+ 	height: 246px;
+ 	margin: 10px 10px 10px 10px;
+ 	border: 2px solid black;
+ 	border-radius: 10px; 
+ }
+
+#sat 
+ {
+ 	width: 246px;
+ 	height: 246px;
+ 	position: relative;
+ 	top: -25px;
+ 	margin: 10px 10px 10px 10px;
+ 	border: 2px solid black;
+ 	border-radius: 10px; 
+ }
