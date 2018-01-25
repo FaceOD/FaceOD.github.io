@@ -23,7 +23,9 @@ ul
  {
 	list-style: none;
  }
-
+li
+ {
+	font-sise: 15pt;
 #headinner
  {
 	width: 90%;
